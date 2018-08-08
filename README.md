@@ -86,3 +86,5 @@ Once all have completed the turn, each player shows their licence
 Some players may not have been able to make a license, they FOLD and can discuss what licence they wanted to make.
 Other players may make up a licence and the player with the highest scoring licence wins that round (a point to them!).
 
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
