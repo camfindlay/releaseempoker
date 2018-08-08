@@ -52,7 +52,7 @@ Play time: 45 mins - 1 hours
  2. Play though until all the Scenario cards are licensed or you run out of time.
  3. The person with the most won hands/points is the winner... and when we open license work for reuse using Creative Commons... we're all winners :)
 
-## Exmaple hand of Release 'em poker
+## Example hand of Release 'em poker
 ### Scenario
 Bob is a political cartoonist, he likes to get his message out by others sharing his cartoons on their facebook timelines, however he wants to reserve his rights to publish his cartoons in paid magazines and wants to ensure when shared, others retain his cartoons in their original form. 
 
