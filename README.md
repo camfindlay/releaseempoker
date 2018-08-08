@@ -44,5 +44,45 @@ Play time: 45 mins - 1 hours
  4. If a player cannot make a license, then should fold their hand.
  5. Once all remaining players have had their turn, each player will then show their hand, that is, reveal the licence they think is correct.
  6. Each player should tell the group why they think the license is the best choice and how it applies to the scenario.
- 7. The player with the correct license and the highest value cards wins the hand.
+ 7. The dealer will flip the scenario card over to reveal the correct answer/s (sometimes there may be more than 1 correct license).
+ 8. The player with the correct license and the highest value cards wins the hand (and gets a point).
+ 
+### Next hand
+ 1. The dealer collects in all the cards used during the hand into the deck of cards, shuffles and repeats the Setting up proces from above.
+ 2. Play though until all the Scenario cards are licensed or you run out of time.
+ 3. The person with the most won hands/points is the winner... and when we open license work for reuse using Creative Commons... we're all winners :)
+
+## Exmaple hand of Release 'em poker
+### Scenario
+Bob is a political cartoonist, he likes to get his message out by others sharing his cartoons on their facebook timelines, however he wants to reserve his rights to publish his cartoons in paid magazines and wants to ensure when shared, others retain his cartoons in their original form. 
+
+**What license should Bob release 'em under?**
+
+### Round 1: Pre-flop
+Person to left of the dealer begins the game. Dealer deals 2 cards to each player.
+Decide which license to release the work under and why.
+Players may discard 1 or both cards if needed. 
+After all players have completed above move to turn 2.
+
+### Round 2: The flop
+Dealer deals out 3 cards face up in the middle of the table.
+Players should use the cards in their hand and those on the board to construct the preferred licence.
+Remember: You want to construct the highest value licence possible.
+
+For example:
+	A Queen BY/Jack ND/King NC hand beats a 2 BY/Jack ND/10 NC hand.
+Each player can choose to discard 1 or both cards in their hand to try and get a better one.
+Once all players complete their turn, move to turn 3.
+
+### Round 3: The turn
+Dealer deals another 1 card face up on on the table next to the others.
+Players have another round of discard and draw.
+Once all players complete their turn, move to turn 4.
+
+### Round 4: The river
+Dealer deals 1 card face up on on the table next to the others.
+Players have a final round of discard and draw.
+Once all have completed the turn, each player shows their licence
+Some players may not have been able to make a license, they FOLD and can discuss what licence they wanted to make.
+Other players may make up a licence and the player with the highest scoring licence wins that round (a point to them!).
 
