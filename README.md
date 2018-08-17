@@ -1,8 +1,16 @@
 # Release 'em poker
-An educational card game loosely based on Texas Hold'em poker teaching Creative Commons licensing
+An educational card game loosely based on Texas Hold'em poker teaching Creative Commons licensing.
 
  * Players: 6-8 per table
  * Play time: 45 mins - 1 hours
+ * Deck of playing cards
+  
+Each of the 4 CC license elements replace the suits on a standard deck of playing cards.
+ * BY (Spades)
+ * SA (Hearts)
+ * ND (Diamonds)
+ * NC (Clubs)
+ * CC0/Public domain (Joker)
 
 ## Objective 
  * Each players goal is to use the cards containing license elements to create the most useful Creative Commons license for the given scenario. 
