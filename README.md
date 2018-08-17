@@ -1,4 +1,4 @@
-# Release 'em poker
+# Creative Commons Release 'em poker
 An educational card game loosely based on Texas Hold'em poker teaching Creative Commons licensing.
 
  * Players: 6-8 per table
