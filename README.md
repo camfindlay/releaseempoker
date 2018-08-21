@@ -4,7 +4,7 @@ An educational card game loosely based on Texas Hold'em poker teaching Creative 
 ## You will need
 
  * Players: 6-8 per table
- * Play time: 45 mins - 1 hour
+ * Play time: 45 mins - 1 hour, quick game could be played in as little as 20 mins.
  * Deck of playing cards (or custom Creative Commons release 'em cards... watch this space)
   
 Each of the 4 CC license elements replace the suits on a standard deck of playing cards.
