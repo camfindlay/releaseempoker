@@ -3,20 +3,21 @@ An educational card game loosely based on Texas Hold'em poker teaching Creative 
 
  * Players: 6-8 per table
  * Play time: 45 mins - 1 hours
- * Deck of playing cards
+ * Deck of playing cards (or custom Creative Commons release 'em cards... watch this space)
   
 Each of the 4 CC license elements replace the suits on a standard deck of playing cards.
  * BY (Spades)
  * SA (Hearts)
  * ND (Diamonds)
  * NC (Clubs)
- * CC0/Public domain (Joker)
+ * CC0/Public domain (Joker): depending on your juristiction you might remove these from the pile
 
 ## Objective 
  * Each players goal is to use the cards containing license elements to create the most useful Creative Commons license for the given scenario. 
  * Players can use higher card numbers to try and win the hand. 
  * The license that is both correct and worth the most points wins the hand.
  * If only one player has the correct license, they win the hand (and get a point - you could use counters or similar to track points).
+ * The game flow runs like a hand of [Texas Hold 'em poker](https://en.wikipedia.org/wiki/Texas_hold_%27em)
 
 ## Setting up
  1. Select a dealer.
@@ -93,6 +94,9 @@ Players have a final round of discard and draw.
 Once all have completed the turn, each player shows their licence
 Some players may not have been able to make a license, they FOLD and can discuss what licence they wanted to make.
 Other players may make up a licence and the player with the highest scoring licence wins that round (a point to them!).
+
+## Advanced game
+Same as the regular game but if you can make an actual poker hand while also being a pro at open licensing your basically winning at life... 
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
