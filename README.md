@@ -1,6 +1,8 @@
 # Creative Commons Release 'em poker
 An educational card game loosely based on Texas Hold'em poker teaching Creative Commons licensing.
 
+## You will need
+
  * Players: 6-8 per table
  * Play time: 45 mins - 1 hours
  * Deck of playing cards (or custom Creative Commons release 'em cards... watch this space)
@@ -11,6 +13,9 @@ Each of the 4 CC license elements replace the suits on a standard deck of playin
  * ND (Diamonds)
  * NC (Clubs)
  * CC0/Public domain (Joker): depending on your juristiction you might remove these from the pile
+
+## Scenarios
+See the [scenarios dataset](scenarios.csv): feel free to use and add new scenarios to this dataset via pull request. We suggest jotting down new scenarios that come up while talking to participants as you play.
 
 ## Objective 
  * Each players goal is to use the cards containing license elements to create the most useful Creative Commons license for the given scenario. 
