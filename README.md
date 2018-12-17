@@ -101,7 +101,7 @@ Some players may not have been able to make a license, they FOLD and can discuss
 Other players may make up a licence and the player with the highest scoring licence wins that round (a point to them!).
 
 ## Advanced game
-Same as the regular game but if you can make an actual poker hand while also being a pro at open licensing your basically winning at life... 
+Same as the regular game but if you can make an actual poker hand while also being a pro at open licensing you're basically winning at life... 
 
 ## License
 See the [LICENSE file](LICENSE.md)
